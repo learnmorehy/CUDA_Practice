@@ -1,0 +1,7 @@
+Time taken: 77 microseconds
+Time taken: 104 microseconds
+Time taken: 81 microseconds
+Time taken: 77 microseconds
+Time taken: 76 microseconds
+Time taken: 81 microseconds
+Time taken: 74 microseconds
